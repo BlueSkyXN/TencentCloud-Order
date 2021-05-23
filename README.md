@@ -47,3 +47,30 @@
     ]
 }
 </pre>
+
+
+## Productinfo 
+
+在你的订单付款前的确认页，有产品信息，请复制输入
+
+<pre>
+商品清单
+轻量应用服务器-标准型续费
+10.40元
+运算组件：
+1核CPU、1GB内存 (Linux/Unix SMALL1 | 1T)
+云SSD系统盘：
+25GB SSD (Linux/Unix SMALL1 | 1T)
+流量包：
+1024GB (Linux/Unix SMALL1 | 1T)
+地域：
+新加坡
+单价：
+0.80元/天
+数量：
+1
+付费方式：
+预付费
+购买时长：
+13天
+</pre>
