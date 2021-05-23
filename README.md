@@ -1,5 +1,10 @@
 # TencentCloud-Renew
-腾讯云产品-自定义续费模板
+
+腾讯云产品-自定义续费模板，免额外抓包，直接输入参数提交自动跳转对应订单页面
+
+记得先登陆好腾讯云：https://console.cloud.tencent.com
+
+入口：https://tencentcloud-renew.pages.dev
 
 # 参数参考
 
