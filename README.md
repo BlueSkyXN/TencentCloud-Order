@@ -38,7 +38,7 @@
                         "value": "新加坡"
                     }
                 ],
-                "resourceId": "lh什么的东西，是你的实例名，请修改",
+                "resourceId": "【lhins-9w4aepmp这种格式的，是你的实例名，请修改】",
                 "autoRenewFlag": 0,
                 "timeUnit": "d",
                 "timeSpan": 12
