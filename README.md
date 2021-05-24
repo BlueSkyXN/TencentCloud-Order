@@ -5,7 +5,7 @@
 ## 网址
 记得先登陆好腾讯云：https://console.cloud.tencent.com
 
-入口：https://tencentcloud-renew.pages.dev
+入口：https://tencentcloud.pages.dev
 
 # WARNING
 
