@@ -22,6 +22,8 @@
 
 如果你有兴趣抓包的，可以抓一下丢issues
 
+## 续费参考
+<details><summary>续费参考</summary>
 <pre>
 {
     "raw_goodsData": [
@@ -64,6 +66,7 @@
     ]
 }
 </pre>
+</details>
 
 # 参数说明
 
