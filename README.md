@@ -55,7 +55,7 @@
                         "value": "新加坡"
                     }
                 ],
-                "resourceId": "【lhins-xxxxxx这种格式的，是你的实例名，请修改】",
+                "resourceId": "【lhins-xxxxxx这种格式的，是你的实例名，请修改，新购请移除此行】",
                 "autoRenewFlag": 0,
                 "timeUnit": "d",
                 "timeSpan": 12
@@ -66,6 +66,31 @@
 </pre>
 
 # 参数说明
+
+## regionId 
+
+请阅读 https://www.blueskyxn.com/202007/1541.html 可以查到
+
+新加坡9香港5，其他去上面查
+
+## pid
+
+产品类型，和地域无关
+
+境外轻量24都是“1002660”
+
+## resourceId
+
+实例名，lhins-xxxxxx这种格式的
+
+如果新购，请去掉这一行就行
+
+## timeSpan
+时间数量 正整数
+
+## timeUnit
+时间单位 d/m等
+
 
 ## Productinfo 
 
@@ -92,27 +117,3 @@
 购买时长：
 13天
 </pre>
-
-## regionId 
-
-请阅读 https://www.blueskyxn.com/202007/1541.html 可以查到
-
-新加坡9香港5，其他去上面查
-
-## pid
-
-产品类型，和地域无关
-
-境外轻量24都是“1002660”
-
-## resourceId
-
-实例名，lhins-xxxxxx这种格式的
-
-如果新购，请去掉这一行就行
-
-## timeSpan
-时间数量 正整数
-
-## timeUnit
-时间单位 d/m等
