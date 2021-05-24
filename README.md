@@ -5,7 +5,7 @@
 ## 网址
 记得先登陆好腾讯云：https://console.cloud.tencent.com
 
-入口：https://tencentcloud.pages.dev
+单页入口：https://tencentcloud.pages.dev
 
 # WARNING
 
@@ -14,7 +14,6 @@
 如果您打开了相关页面，则默认您仅学习HTML基本语法和HTTP-POST的使用，且所造成的后果由您自负，与本开发者无关
 
 同时，无论何种目的，请在12小时内停止浏览/使用/保存相关内容
-
 
 # 参数参考
 
