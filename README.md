@@ -136,6 +136,8 @@
 
 运行方法 python tc.py 或者 python3 tc.py
 
+博客介绍：https://www.blueskyxn.com/202105/4570.html
+
 ### 参数讲解
 除了注明的，其他随意，没影响
 
