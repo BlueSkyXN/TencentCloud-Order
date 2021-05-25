@@ -4,6 +4,8 @@
 
 基于轻量服务器续费做演示 新购参数经过测试发现逻辑不一样，改不了
 
+博客介绍： https://www.blueskyxn.com/202105/4566.html
+
 ## 网址
 记得先登陆好腾讯云：https://console.cloud.tencent.com
 
